@@ -1,3 +1,3 @@
-DevOps engineers streamline software development by automating and optimizing processes, resulting in faster time to market and higher quality products.
+>DevOps engineers streamline software development by automating and optimizing processes, resulting in faster time to market and higher quality products.
 Learning to become a DevOps engineer is important in the software development cycle as it enables improved collaboration, faster time-to-market, improved quality, increased scalability, and automation.
 This can lead to better software and more efficient teams, making companies more competitive.
