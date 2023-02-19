@@ -1,0 +1,1 @@
+This college-level DevOps course provides students with a comprehensive introduction to DevOps principles, practices, and tools. DevOps is a popular software development methodology that seeks to streamline software development, testing, and deployment processes by facilitating collaboration and communication between development and operations teams.
