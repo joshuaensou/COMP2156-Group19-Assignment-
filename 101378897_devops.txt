@@ -4,3 +4,4 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 Course Code: Comp2156
 Professor name: Pritesh Patel
 Email:Pritesh.patel12@gerogebrown.ca
+Course Duration: 4 months
