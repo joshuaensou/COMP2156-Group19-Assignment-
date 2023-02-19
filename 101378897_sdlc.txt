@@ -1,0 +1,10 @@
+SDLC means software development Life Cycle.
+
+Benefits of learning DevOps:
+Shorten Production Cycles.
+Increase Deployment Success Rates. 
+Improved Collaboration and Communication.
+Work with Good Developers.
+A Good Organizational Culture. 
+Increase Product Quality. 
+Increase Your Value.
