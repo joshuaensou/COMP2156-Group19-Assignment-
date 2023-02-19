@@ -5,7 +5,7 @@ This is a repository for group 19 assignment for DevOps
 - Joshua Marcelo 🙃
 - Md Naimur Rahman Nuel
 - Noel Piason
-- Evgeny Gorbachenko1
+- Evgeny Gorbachenko
 - Jubayer Ahmed
 
 ### To Do's
