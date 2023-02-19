@@ -1,1 +1,6 @@
-SDLC means software development Life Cycle
+SDLC means software development Life Cycle.
+
+Benefits of learning DevOps:
+Shorten Production Cycles.
+Increase Deployment Success Rates. 
+Improved Collaboration and Communication.
