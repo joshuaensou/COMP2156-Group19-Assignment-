@@ -1,5 +1,0 @@
-#DevOp Overview
-    Professor:  Pritish Patel
-    Time:       Tuesday 6-8 PM
-
-> The DevOps course curriculum renders a professional capacity to manage and track different versions of source code, automate testing procedures, manage to cluster, and perform continuous monitoring with the help of many tools.
