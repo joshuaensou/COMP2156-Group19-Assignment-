@@ -3,3 +3,5 @@
 > DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
 > The learning of DevOps helps in reducing the time for cycles of development and also ensures a faster rate of innovation.
 > The increased use of automation and cross-functional collaboration reduces complexity and errors, which in turn improves the Mean Time to Recovery (MTTR) when incidents and outages occur.
+
+
